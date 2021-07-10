@@ -1,2 +1,2 @@
-# Network_Models_Project
-Projeto destinado para a disciplina de Modelos em Redes da UFRPE, cujo objetivo é construir e analisar uma rede complexa com determinadas métricas.
+# Projeto de Modelos em Redes - Rede social Twitter
+Projeto destinado para a disciplina de Modelos em Redes da UFRPE, cujo objetivo é construir e analisar a rede Twitter com determinadas métricas.
